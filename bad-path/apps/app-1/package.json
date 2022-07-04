@@ -1,0 +1,11 @@
+{
+  "name": "app-1",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@fastify/static": "^6.4.0",
+    "fastify": "^4.2.0"
+  }
+}

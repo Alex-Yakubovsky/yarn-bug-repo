@@ -1,0 +1,11 @@
+{
+  "name": "experiment",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "workspaces": [
+    "apps/*"
+  ],
+  "packageManager": "yarn@3.2.1"
+}

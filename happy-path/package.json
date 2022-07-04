@@ -1,0 +1,10 @@
+{
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@fastify/static": "^6.4.0",
+    "fastify": "^4.2.0"
+  }
+}
